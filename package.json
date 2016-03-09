@@ -1,0 +1,8 @@
+{
+    "name": "YandexMap",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "user_2",
+    "contributors": [],
+    "dependencies": {}
+}
